@@ -37,9 +37,9 @@ Cost
 >>> 9x effect**: mismatch, no matter how good your product is, you will always have 'Resistance' from your customer
 
 **How to build argumentation to justify your choice?**
-Easy sells: easier for customer to imitate, rapid adoption but short-term competitve advantage, many competitors
-Long hauls: (mostly talk about radical innovation),need to wait until the product be adopted, strong resistance, long-term adoption but you can enjoy long-term comptitive advantage
-Smash hits: (also mostly radical innovation) but customer don't need to change much behavior e.g. iPhone
+- Easy sells: easier for customer to imitate, rapid adoption but short-term competitve advantage, many competitors
+- Long hauls: (mostly talk about radical innovation),need to wait until the product be adopted, strong resistance, long-term adoption but you can enjoy long-term comptitive advantage
+- Smash hits: (also mostly radical innovation) but customer don't need to change much behavior e.g. iPhone
 
 Two way to manage innovative products 
 - Accepting: be patient (for ex. )
