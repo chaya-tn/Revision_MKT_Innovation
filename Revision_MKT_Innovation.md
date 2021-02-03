@@ -7,7 +7,7 @@
 
 ---
 
-Innovation = invention that bring value
+Innovation = invention that bring commercial value
 
 Product/service innovation: visible by consumer, they can get benefit/value
 Process innovation: economic of scale, manufacturer can be transmit and share
@@ -28,12 +28,15 @@ Cost
 - psychology cost of adoption*: people are suffering, they need to compare - change
 > Gain & losses: the fact that they hate losing (loss aversion) - reference point and overvalue potential gain&losses by fact of three
 >>> Endowment effect: 'overvalue' what they currently own, tend to contribute higher value
+
 >>> Status quo bias: stick with what you already owned 'we won't bother changing'
+
 > Customers: trade-offs potential gain and potential losses, when they will be swiching from reference point
+
 > Innovators: they are also suffering, they overvalue potential gain
 >>> 9x effect**: mismatch, no matter how good your product is, you will always have 'Resistance' from your customer
 
-How to build argumentation to justify your choice?
+**How to build argumentation to justify your choice?**
 Easy sells: easier for customer to imitate, rapid adoption but short-term competitve advantage, many competitors
 Long hauls: (mostly talk about radical innovation),need to wait until the product be adopted, strong resistance, long-term adoption but you can enjoy long-term comptitive advantage
 Smash hits: (also mostly radical innovation) but customer don't need to change much behavior e.g. iPhone
@@ -59,13 +62,13 @@ Cross the chasm - Mainstream market (the chasm)
 
 - conservative: late majority customers // Mainstream Market
 
-Then how to cross the chasm?
+**Then how to cross the chasm?**
 - why to attack early adopters first, to get first recommendation
 - focus initial target market (with compelling reason to buy), start from small market to become dominant player
 - develop the whole-products that will facilitate the process of cross the chasm
 - define the battle (about competition) what is your differentiation, how you compare to competitors
 
-Tips: Explain why chasm is here, who is the visionary in specific example, who are the customer in initial market, what is compelling reason to buy, how to develop the whole-product
+_Tips_: Explain why chasm is here, who is the visionary in specific example, who are the customer in initial market, what is compelling reason to buy, how to develop the whole-product
 e.g. B2C: MP3 player until iPod came
 
 ---
@@ -78,14 +81,14 @@ Disruptive Market - LOST (replay  later)
 Close and open innovation
 
 3 Appraches
-> Integrator (close innovation): You do everything by yourself, skills, capabilities & resources are inside the company
+- Integrator (close innovation): You do everything by yourself, skills, capabilities & resources are inside the company
 they know customer's taste, and you can get long product life cycle
 e.g. Polaroid, but the problem is they don't have enough skills and they need to develop this so they need to invest a lot
 
-> Orchestrator (open innovation): when you decide to take care of one part of the business e.g. design, specific know-how and find expert outsourses for another part
+- Orchestrator (open innovation): when you decide to take care of one part of the business e.g. design, specific know-how and find expert outsourses for another part
 e.g. iPhone, they design only the product but hire R&D, suppliers, oursource the manufacturing, then they can just orchestrate the sale
 
-> Licensor (open innovation): license out the idea for the other companies to develop the products e.g. biotechnology, they get the idea launch to the market
+- Licensor (open innovation): license out the idea for the other companies to develop the products e.g. biotechnology, they get the idea launch to the market
 
 Open innovation: 
 
