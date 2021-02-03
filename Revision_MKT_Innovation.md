@@ -81,9 +81,9 @@ Disruptive Market
 
 **Incumbents** = company that are already successfull on their market for the few year and focusing on their **mainstream customer** who are perfectly satisfy with imcumbent's solution, and they are trying to make their product better and better /or/ incremental products to sell to the most demanding or **top-tier customer** who are willing to pay a lot for the best products in the market
 
-then they left 'low-tier customer' and 'non-consumer' behind because those are not profitable
+then they left 'low-tier customer' and 'non-consumer' (who cann't afford because it's too expensive or too complicated) behind because those are not profitable
 
-**New entrant** = company who is going to offer _interior alternative_ 
+**New entrant** = company who is going to offer _interior alternative_ that is not a threat or bother incumbent (at the beginning) and start to target the lower market, but the new alternative product will be _affordable_ (good enough, low cost), _accessible_ (much easier to operate) and based on **_new value proposition and BM_** in the future and will get better until better fit product-market (fit for everyone) = **Inclusive growth**
 
 ---
 
