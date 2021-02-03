@@ -14,7 +14,7 @@ Process innovation: economic of scale, manufacturer can be transmit and share
 Business model innovation: profitable business to maximize value creation
 
 Radical (change the basic principle of the product dramatically ) vs Incremental (improvement of existing solution)
-- Techno: skill&resources to develop new innovative product
+- Techno: skill & resources to develop new innovative product
 - Usage*: customer behavior
 - BM*: eco-system that will be able to deliver the value proposition
 
