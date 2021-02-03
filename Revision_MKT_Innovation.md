@@ -23,17 +23,19 @@ Radical (change the basic principle of the product dramatically ) vs Incremental
 Gourville** = barrier of innovation, psychological aspect of customer's adoption
 
 Cost
-- economic cost: learning cost to learn again how to use new products and transaction cost
+- economic cost: learning cost to learn again how to use new products and transaction cost (complementary cost)
 
-- psychology cost of adoption*: people are suffering, they need to compare - change
-> Gain & losses: the fact that they hate losing (loss aversion) - reference point and overvalue potential gain&losses by fact of three
->>> Endowment effect: 'overvalue' what they currently own, tend to contribute higher value
+- psychology cost of adoption*: people are suffering, they need to compare between old product(reference point, existing solution) and new product - change
+> Gain & losses: the fact that they hate losing (loss aversion phenomena) - reference point and overvalue potential losses by the fact of three
+>>> Endowment effect: 'overvalue' what they currently own, tend to attribute higher value
 
->>> Status quo bias: stick with what you already owned 'we won't bother changing'
+>>> Status quo bias: stick with what you already owned 'we won't bother changing because what we've got is working perfectly', tend to increase overtime
 
-> Customers: trade-offs potential gain and potential losses, when they will be swiching from reference point
+**Phychological framework**
+> Customers: it's important to understand the 'trade-offs' between potential gain and potential losses, they will feel like they will lose something when they will be swiching from reference point.
 
-> Innovators: they are also suffering, they overvalue potential gain
+> Innovators: they are also suffering the opposite effect from trade-offs, they overvalue potential gain of the innovative products by the fact of three
+
 >>> 9x effect**: mismatch, no matter how good your product is, you will always have 'Resistance' from your customer
 
 **How to build argumentation to justify your choice?**
@@ -42,8 +44,9 @@ Cost
 - Smash hits: (also mostly radical innovation) but customer don't need to change much behavior e.g. iPhone
 
 Two way to manage innovative products 
-- Accepting: be patient (for ex. )
-- Minimizing
+- Accepting the resistence: be patient; especially for long hauls, plan for long-term investment
+- Minimizing: make it easy to change, reduce the impact of customer behavior
+- Find the believers / right target: e.g, eco car - find people who are willing to change their behavior because they are concerning about environment **AND** the un-endowed
 
 ---
 
@@ -73,8 +76,14 @@ e.g. B2C: MP3 player until iPod came
 
 ---
 
-Disruptive Market - LOST (replay  later)
-- Disruptive innovation is always radical
+Disruptive Market
+'Disruptive innovation is always radical, better to understand because it has strong strategic implication' e.g. Netflix and Blockbuster
+
+**Incumbents** = company that are already successfull on their market for the few year and focusing on their **mainstream customer** who are perfectly satisfy with imcumbent's solution, and they are trying to make their product better and better /or/ incremental products to sell to the most demanding or **top-tier customer** who are willing to pay a lot for the best products in the market
+
+then they left 'low-tier customer' and 'non-consumer' behind because those are not profitable
+
+**New entrant** = company who is going to offer _interior alternative_ 
 
 ---
 
